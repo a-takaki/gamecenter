@@ -1,5 +1,5 @@
 # gamecenter
-javascriptで実装したスロットゲームです
+javascriptで実装したスロットゲームサイトです
 
 【作成年月日】 2018/04
 
